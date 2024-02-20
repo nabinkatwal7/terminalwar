@@ -1,0 +1,3 @@
+C:/Users/medio/Documents/os/terminalwar/cmake-build-debug/CMakeFiles/terminalwar.dir
+C:/Users/medio/Documents/os/terminalwar/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/medio/Documents/os/terminalwar/cmake-build-debug/CMakeFiles/rebuild_cache.dir
